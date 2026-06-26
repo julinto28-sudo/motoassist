@@ -9,7 +9,7 @@ plugins {
 android {
   namespace = "com.example"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
-
+//versi androidnya//
   defaultConfig {
     applicationId = "com.aistudio.motocare.qybmwz"
     minSdk = 24
