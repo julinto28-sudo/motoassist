@@ -1,0 +1,6 @@
+{
+  "name": "MotoCare",
+  "description": "Perawatan motor, melacak jadwal servis rutin, dan riwayat penggantian suku cadang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
